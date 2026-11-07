@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Hi, I'm Akintunde — I build AI agents and ship products fast." width="100%"/>
+  <img src="./assets/banner.svg" alt="Hi, I'm Akin — I build AI agents and ship products fast." width="100%"/>
 </p>
 
 <p align="center">
