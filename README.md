@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Hi, I'm Mustang — I build AI agents and ship products fast." width="100%"/>
+  <img src="./assets/banner.svg" alt="Hi, I'm Akintunde — I build AI agents and ship products fast." width="100%"/>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ### 👋 The short version
 
-I'm **Akintunde Solarin**, aka **Mustang**. I run **[FlagIQ](https://flagiq.org)**, an AI agency in Lagos, and **Flag Skool**, where I've trained **750+ students** to build with AI.
+I'm **Akintunde Solarin**. I run **[FlagIQ](https://flagiq.org)**, an AI agency in Lagos, and **Flag Skool**, where I've trained **750+ students** to build with AI.
 
 My style is to **ship first and polish second.** I build fast with AI tooling (Claude Code, Cursor, Lovable, AI Studio), then do the real engineering work: auth, payments, databases and deploys. Clients get something they can actually click on in days, not a deck in weeks.
 
