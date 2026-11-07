@@ -6,7 +6,6 @@
   <a href="https://flagiq.org"><img src="https://img.shields.io/badge/FlagIQ-flagiq.org-CA3A32?style=for-the-badge&labelColor=030617" alt="FlagIQ"/></a>
   <a href="https://x.com/mustang_akin"><img src="https://img.shields.io/badge/X-@mustang__akin-F9FAFC?style=for-the-badge&logo=x&logoColor=F9FAFC&labelColor=030617" alt="X"/></a>
   <img src="https://img.shields.io/badge/Based_in-Lagos,_Nigeria-121826?style=for-the-badge&labelColor=030617" alt="Lagos"/>
-  <img src="https://komarev.com/ghpvc/?username=mustangakin&style=for-the-badge&color=CA3A32&label=VISITORS" alt="visitors"/>
 </p>
 
 ---
