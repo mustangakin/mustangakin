@@ -12,7 +12,7 @@
 
 ### 👋 The short version
 
-I'm **Akintunde Solarin**. I run **[FlagIQ](https://flagiq.org)**, an AI agency in Lagos, and **Flag Skool**, where I've trained **750+ students** to build with AI.
+I'm **Solarin Akintunde Oluwatobi**. I run **[FlagIQ](https://flagiq.org)**, an AI agency in Lagos, and **Flag Skool**, where I've trained **750+ students** to become better with the way they use AI.
 
 My style is to **ship first and polish second.** I build fast with AI tooling (Claude Code, Cursor, Lovable, AI Studio), then do the real engineering work: auth, payments, databases and deploys. Clients get something they can actually click on in days, not a deck in weeks.
 
